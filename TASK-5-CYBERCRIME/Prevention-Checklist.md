@@ -7,8 +7,11 @@
 # For Every Student — General Safety
 
   **Think before you share** — Never post, forward, or comment anything online that you would not say to someone's face in front of a teacher
+  
   **Never screenshot or record** anyone during online classes or video calls without their knowledge and consent — this is unethical and illegal under the IT Act, 2000
+  
   **Do not forward hurtful content** — If someone shares a mocking image or message in a group, do not forward it. Forwarding makes you equally responsible
+  
   **Review your privacy settings** on WhatsApp, Instagram, and other platforms — set your profile to private and control who can add you to groups
   **Block and report** anyone who sends you harassing messages — every platform (WhatsApp, Instagram, Snapchat) has a built-in block and report feature
 
